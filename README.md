@@ -1,6 +1,6 @@
 # Hi there, I'm Mani Krishna 👋 🚀
 
-### <img width="35" height="35" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> Python Full-Stack Developer | React Developer
+### Python Full-Stack Developer | React Developer
 
 I am a passionate Frontend Developer with hands-on experience in building responsive and interactive web applications using HTML5, CSS3, JavaScript (ES6+), and React.js. Passionate about creating user-friendly interfaces and delivering high-quality web experiences. Demonstrates strong problem-solving abilities, adaptability, and a commitment to continuous learning.
 
@@ -8,12 +8,10 @@ I am a passionate Frontend Developer with hands-on experience in building respon
 
 ## 🛠️ Tech Stack & Skills
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript (ES6+), HTML5, CSS3 |
-| **Frontend Frameworks** | React.js, Bootstrap |
-| **Backend Runtime** | Node.js |
-| **Tools & Platforms** | Git, GitHub, VS Code |
+**Languages** : <img width="35" height="35" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> 
+**Frontend Frameworks** : <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/> 
+**Backend Runtime** : <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+**Tools & Platforms** : <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> 
 
 ---
 
@@ -50,6 +48,6 @@ If you want to collaborate on an open-source project, discuss Python frameworks,
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/mani-a-6134b5296/">
-    <img src="https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+    <img src="https://img.icons8.com/color/48/linkedin.png?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
 </p>
