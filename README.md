@@ -1,4 +1,4 @@
-# Hi there, I'm Mani Krishna 👋 🚀
+# Hi there, I'm Mani 👋 🚀
 
 ### Python Full-Stack Developer | React Developer
 
