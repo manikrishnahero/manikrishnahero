@@ -6,6 +6,22 @@ I am a passionate Frontend Developer with hands-on experience in building respon
 
 ---
 
+## 📬 Let's Connect!
+
+If you want to collaborate on an open-source project, discuss Python frameworks, or just talk tech, feel free to reach out:
+
+*   📧 **Email:** [manikrishna9345@gmail.com](mailto:manikrishna9345@gmail.com)
+*   📱 **Phone:** +91 9345819257
+*   📍 **Location:** Tamil Nadu, India
+
+<p align="left">
+  <a href="mailto:manikrishna9345@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 **Languages** : <img width="35" height="35" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="35" height="35" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="35" height="35" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="35" height="35" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
@@ -35,19 +51,3 @@ I am a passionate Frontend Developer with hands-on experience in building respon
 ### 💼 [Responsive React Portfolio](https://github.com/manikrishnahero)
 *   **Description:** A modular full-stack application showcase utilizing modern web engineering principles.
 *   **Tech Stack:** React.js, Component Architecture, Router, Smooth Intersection Observer Animations.
-
----
-
-## 📬 Let's Connect!
-
-If you want to collaborate on an open-source project, discuss Python frameworks, or just talk tech, feel free to reach out:
-
-*   📧 **Email:** [manikrishna9345@gmail.com](mailto:manikrishna9345@gmail.com)
-*   📱 **Phone:** +91 9345819257
-*   📍 **Location:** Tamil Nadu, India
-
-<p align="left">
-  <a href="mailto:manikrishna9345@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
