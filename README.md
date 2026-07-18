@@ -8,9 +8,12 @@ I am a passionate Frontend Developer with hands-on experience in building respon
 
 ## 🛠️ Tech Stack & Skills
 
-**Languages** : <img width="35" height="35" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> 
-**Frontend Frameworks** : <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/> 
+**Languages** : <img width="35" height="35" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+
+**Frontend Frameworks** : <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
+
 **Backend Runtime** : <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+
 **Tools & Platforms** : <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> 
 
 ---
@@ -46,8 +49,5 @@ If you want to collaborate on an open-source project, discuss Python frameworks,
 <p align="left">
   <a href="mailto:manikrishna9345@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/mani-a-6134b5296/">
-    <img src="https://img.icons8.com/color/48/linkedin.png?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
 </p>
