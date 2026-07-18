@@ -18,9 +18,6 @@ If you want to collaborate on an open-source project, discuss Python frameworks,
   <a href="mailto:manikrishna9345@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="www.linkedin.com/in/mani-a-6134b5296" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn Badge" />
-  </a>
 </p>
 
 ---
