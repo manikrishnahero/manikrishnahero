@@ -1,8 +1,8 @@
 # Hi there, I'm Mani Krishna 👋 🚀
 
-### <img width="35" height="35" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> Python & Full-Stack Developer | UI/UX Enthusiast
+### <img width="35" height="35" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> Python Full-Stack Developer | React Developer
 
-I am a passionate Python Developer dedicated to building clean, efficient backend systems and pairing them with engaging, highly responsive user interfaces. I love transforming complex problems into elegant, production-ready code.
+I am a passionate Frontend Developer with hands-on experience in building responsive and interactive web applications using HTML5, CSS3, JavaScript (ES6+), and React.js. Passionate about creating user-friendly interfaces and delivering high-quality web experiences. Demonstrates strong problem-solving abilities, adaptability, and a commitment to continuous learning.
 
 ---
 
@@ -14,6 +14,13 @@ I am a passionate Python Developer dedicated to building clean, efficient backen
 | **Frontend Frameworks** | React.js, Bootstrap |
 | **Backend Runtime** | Node.js |
 | **Tools & Platforms** | Git, GitHub, VS Code |
+
+---
+
+## 🎓 Education & Background
+
+*   **B.Sc. Zoology** – Sethupathi Government Arts & Science College, Ramanathapuram (Graduated: 2023)
+*   **Higher Secondary Education** – Rahmania Matriculation Higher Secondary School, Kamuthi
 
 ---
 
@@ -30,13 +37,6 @@ I am a passionate Python Developer dedicated to building clean, efficient backen
 
 ---
 
-## 🎓 Education & Background
-
-*   **B.Sc. Undergraduate** – Sethupathi Government Arts & Science College, Ramanathapuram (Graduated: 2023)
-*   **Higher Secondary Education** – Rahmania Matriculation Higher Secondary School, Kamuthi
-
----
-
 ## 📬 Let's Connect!
 
 If you want to collaborate on an open-source project, discuss Python frameworks, or just talk tech, feel free to reach out:
@@ -49,7 +49,7 @@ If you want to collaborate on an open-source project, discuss Python frameworks,
   <a href="mailto:manikrishna9345@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/manikrishnahero">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/mani-a-6134b5296/">
+    <img src="https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
 </p>
