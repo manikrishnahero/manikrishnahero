@@ -1,6 +1,6 @@
 # Hi there, I'm Mani Krishna 👋 🚀
 
-### 🐍 Python & Full-Stack Developer | UI/UX Enthusiast
+### <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> Python & Full-Stack Developer | UI/UX Enthusiast
 
 I am a passionate Python Developer dedicated to building clean, efficient backend systems and pairing them with engaging, highly responsive user interfaces. I love transforming complex problems into elegant, production-ready code.
 
@@ -14,15 +14,6 @@ I am a passionate Python Developer dedicated to building clean, efficient backen
 | **Frontend Frameworks** | React.js, Bootstrap |
 | **Backend Runtime** | Node.js |
 | **Tools & Platforms** | Git, GitHub, VS Code |
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=manikrishnahero&show_icons=true&theme=tokyonight&count_private=true" alt="Mani's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikrishnahero&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
-</p>
 
 ---
 
