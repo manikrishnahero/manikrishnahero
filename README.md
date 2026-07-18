@@ -1,6 +1,6 @@
 # Hi there, I'm Mani Krishna 👋 🚀
 
-### <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> Python & Full-Stack Developer | UI/UX Enthusiast
+### <img width="35" height="35" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> Python & Full-Stack Developer | UI/UX Enthusiast
 
 I am a passionate Python Developer dedicated to building clean, efficient backend systems and pairing them with engaging, highly responsive user interfaces. I love transforming complex problems into elegant, production-ready code.
 
